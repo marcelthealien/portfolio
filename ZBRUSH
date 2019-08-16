@@ -1,0 +1,25 @@
+ZBRUSH
+
+HOT KEYS
+BST= standard brush
+BCB= Clay build up
+BDS= C Sub = carve (alt = inverse)
+BTD = PLANES
+BNV = big chunks of polygons
+SHIFT = SMOOTH
+Dynamic = how close to model --> dynamic on is consistent
+resolution --> shift F (see wire frame) --> geometry--> divide --> hotkey cntrl D--> polycount x 4--> shift D to go back, D to dived and cntrl D to add another level
+Dont divide up to 10 000 000
+If you want to work on a certain part and divide only that part, use dynamesh.
+dynamesh--> tool--> geom--> dynamesh
+would you like to freeze? NO!
+wrk with the res and scale hand in hand
+BNV = MOVE
+with dynamesh active, we can drag and hold cntrl to maintain res (dynamically) (view in poly frame (shift F))
+cntrl SHIFT = trim
+alt= inverse
+SUBTOOL: append
+cntrl W = mask all visible
+Sutool for group split
+mask = cntrl + paint
+subtract mask = cntrl drag outside (as in dynamesh)
